@@ -1,4 +1,4 @@
-package tw.edu.kh.kihs.destini
+package com.example.desitini
 
 import io.flutter.embedding.android.FlutterActivity
 
