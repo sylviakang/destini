@@ -2,36 +2,36 @@
 
 //TODO: Step 6 - import story.dart 到這個檔案中。
 
-//TODO: Step 7 - 將下方的storyData反註解(文字選取後按ctrl + /)，使之成為StoryBrain的私有屬性。
+//TODO: Step 7 - 將下方的storyData反註解(文字選取後按ctrl + /)，使之成為StoryBrain的私有屬性，內容稍微修改一下，使得格式符合語法。
 
 // List<Story> _storyData = [
 //  Story(
 //      storyTitle:
-//      'Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: "Need a ride, boy?".',
-//      choice1: 'I\'ll hop in. Thanks for the help!',
-//      choice2: 'Better ask him if he\'s a murderer first.'),
+//      '您的汽車在沒有手機信號的偏僻地方的蜿蜒道路上爆胎。你決定搭便車。一輛生鏽的皮卡車轟隆隆地停在你旁邊。一個戴著寬檐帽、眼睛沒有靈魂的男人為你打開乘客門，問：“需要搭車嗎，男孩？”',
+//      choice1: '好喔！感謝您的幫助！',
+//      choice2: '最好先問問他是不是最近發生命案的凶手。'),
 //  Story(
-//      storyTitle: 'He nods slowly, unphased by the question.',
-//      choice1: 'At least he\'s honest. I\'ll climb in.',
-//      choice2: 'Wait, I know how to change a tire.'),
-//  Story(
-//      storyTitle:
-//      'As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.',
-//      choice1: 'I love Elton John! Hand him the cassette tape.',
-//      choice2: 'It\'s him or me! You take the knife and stab him.'),
+//      storyTitle: '他慢慢地點點頭，沒有被這個問題影響。',
+//      choice1: '至少他是誠實的。我會進去搭便車。',
+//      choice2: '等等，我知道怎麼換輪胎。'),
 //  Story(
 //      storyTitle:
-//      'What? Such a cop out! Did you know traffic accidents are the second leading cause of accidental death for most adult age groups?',
-//      choice1: 'Restart',
+//      '當車子開動後，陌生人開始談論他與母親的關係。他越講越生氣。他要你打開手套箱。在裡面，你會發現一把血淋淋的刀、兩根斷掉的手指和一盤艾爾頓強的盒式磁帶。他準備伸手去拿手套箱。',
+//      choice1: '我超愛艾爾頓強！把盒式磁帶遞給他。',
+//      choice2: '是他還是我！你拿起刀刺向他。'),
+//  Story(
+//      storyTitle:
+//      '這什麼交通警察！您知道交通事故是大多數成人年齡組意外死亡的第二大原因嗎？',
+//      choice1: '重新開始',
 //      choice2: ''),
 //  Story(
 //      storyTitle:
-//      'As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.',
-//      choice1: 'Restart',
+//      '當你衝破護欄並沖向下方鋸齒狀的岩石時，你想起在有人駕駛你所在的汽車時刺傷某人的可疑智慧。',
+//      choice1: '重新開始',
 //      choice2: ''),
 //  Story(
 //      storyTitle:
-//      'You bond with the murderer while crooning verses of "Can you feel the love tonight". He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: "Try the pier".',
+//      '你在吟唱“今晚你能感受到愛嗎”的詩句時與兇手建立了聯繫。他把你送到下一個城鎮。在你走之前，他問你是否知道傾倒屍體的好地方。你回答：“試試碼頭”。',
 //      choice1: 'Restart',
 //      choice2: '')
 // ];
