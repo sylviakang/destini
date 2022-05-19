@@ -23,17 +23,17 @@
 //      storyTitle:
 //      '這什麼交通警察！您知道交通事故是大多數成人年齡組意外死亡的第二大原因嗎？',
 //      choice1: '重新開始',
-//      choice2: ''),
+//      choice2: '...'),
 //  Story(
 //      storyTitle:
 //      '當你衝破護欄並沖向下方鋸齒狀的岩石時，你想起在有人駕駛你所在的汽車時刺傷某人的可疑智慧。',
 //      choice1: '重新開始',
-//      choice2: ''),
+//      choice2: '...'),
 //  Story(
 //      storyTitle:
 //      '你在吟唱“今晚你能感受到愛嗎”的詩句時與兇手建立了聯繫。他把你送到下一個城鎮。在你走之前，他問你是否知道傾倒屍體的好地方。你回答：“試試碼頭”。',
-//      choice1: 'Restart',
-//      choice2: '')
+//      choice1: '重新開始',
+//      choice2: '...')
 // ];
 
 //TODO: Step 23 - 在getStory()、getChoice1()、getChoice2()方法中使用storyNumber變數，使得故事文本能對應選項更新。
