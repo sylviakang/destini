@@ -52,7 +52,7 @@
 
 //TODO: Step 20 - 下載故事流程規劃表： https://drive.google.com/uc?export=download&id=1KU6EghkO9Hf2hRM0756xFHgNaZyGCou3
 
-//TODO: Step 21 - 參考故事流程規劃，更新nextStory()方法，根據回傳choice選項以及當前storyNumber的編號去決定下個storyNumber的值，例如if (choiceNumver == 1 && storyNumber == 0 ) storyNumber = 2;
+//TODO: Step 21 - 參考故事流程規劃，更新nextStory()方法，根據回傳choice選項以及當前storyNumber的編號去決定下個storyNumber的值，例如if (choiceNumber == 1 && storyNumber == 0 ) storyNumber = 2;
 
 //TODO: Step 22 - 在nextStoru()中，如果storyNumber等於3或4或5，表示遊戲結束，必須呼叫一個restart()方法重設storyNumber = 0，讓遊戲重新開始。
 
