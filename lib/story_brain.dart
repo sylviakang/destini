@@ -54,6 +54,6 @@
 
 //TODO: Step 21 - 參考故事流程規劃，更新nextStory()方法，根據回傳choice選項以及當前storyNumber的編號去決定下個storyNumber的值，例如if (choiceNumber == 1 && storyNumber == 0 ) storyNumber = 2;
 
-//TODO: Step 22 - 在nextStoru()中，如果storyNumber等於3或4或5，表示遊戲結束，必須呼叫一個restart()方法重設storyNumber = 0，讓遊戲重新開始。
+//TODO: Step 22 - 在nextStory()中，如果storyNumber等於3或4或5，表示遊戲結束，必須呼叫一個restart()方法重設storyNumber = 0，讓遊戲重新開始。
 
 //TODO: Step 27 - 建立一個buttonShouldBeVisible()方法，當storyNumber等於0或1或2時回傳true，否則回傳false。
