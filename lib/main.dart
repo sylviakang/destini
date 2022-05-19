@@ -71,7 +71,8 @@ class _StoryPageState extends State<StoryPage> {
                     //TODO: Step 13 - 使用storyBrain的方法取得第一個故事的choice1，並且顯示在此Text中。
                     'Choice 1',
                     style: TextStyle(
-                      fontSize: 20.0,
+                      fontSize: 18.0,
+                      color: Colors.white,
                     ),
                   ),
                 ),
@@ -95,7 +96,8 @@ class _StoryPageState extends State<StoryPage> {
                     //TODO: Step 14 - 使用storyBrain的方法取得第一個故事的choice2，並且顯示在此Text中。
                     'Choice 2',
                     style: TextStyle(
-                      fontSize: 20.0,
+                      fontSize: 18.0,
+                      color: Colors.white,
                     ),
                   ),
                 ),
